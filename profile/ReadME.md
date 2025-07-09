@@ -5,15 +5,14 @@ We believe that small and medium businesses deserve access to the same high-qual
 
 ## 🧰 What We Offer
 
-### 🏗️ A Modular Data Stack Template & AI Toolbox
-- Built on 10+ years of data engineering experience.
-- Deployable on GCP with dlt, dbt, BigQuery, and Terraform.
-- Designed for flexibility: easily integrate new connectors, frameworks, and metadata tools.
-- Includes a ready-to-use toolbox of AI solutions for demand forecasting, time series analysis, GenAI, and more.
-- Enables rapid, repeatable deployments for clients—saving time and increasing project margins.
-- Access to a strong network of top engineers, ensuring expertise and support for every project.
-
 Toltek has built a strong network of experienced data engineers and AI specialists, enabling us to deliver high-quality solutions and foster collaboration across projects.
+
+- Modular data stack template built on 10+ years of experience
+- Deployable on GCP with dlt, dbt, BigQuery, and Terraform
+- Flexible design: easily integrate new connectors, frameworks, and metadata tools
+- Ready-to-use toolbox of AI solutions for demand forecasting, time series analysis, GenAI, and more
+- Rapid, repeatable deployments for clients—saving time and increasing project margins
+- Access to a strong network of top engineers, ensuring expertise and support for every project
 
 ## 📈 Our Growth Plan
 - **Next 6 Months:** Deploy our data stack with 15 clients, focusing on small businesses for rapid adoption.
