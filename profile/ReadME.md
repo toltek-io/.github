@@ -1,4 +1,4 @@
-# 🚀 Toltek Collective: Empowering Freelancers to Deliver Modern Data & AI Solutions
+# 🚀 Toltek : Empowering Freelancers to Deliver Modern Data & AI Solutions
 
 ## 🎯 Our Mission
 We believe that small and medium businesses deserve access to the same high-quality data infrastructure and AI capabilities as the world’s largest companies. Toltek is a collective of experienced data engineers and AI experts, working together to deliver modular, best-practice data stacks and impactful AI use cases—quickly, affordably, and at scale.
