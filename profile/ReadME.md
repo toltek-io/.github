@@ -1,7 +1,7 @@
 # 🚀 Toltek : Empowering Freelancers to Deliver Modern Data & AI Solutions
 
 ## 🎯 Our Mission
-We believe that small and medium businesses deserve access to the same high-quality data infrastructure and AI capabilities as the world’s largest companies. Toltek is a collective of experienced data engineers and AI experts, working together to deliver modular, best-practice data stacks and impactful AI use cases—quickly, affordably, and at scale.
+Toltek is a suite of modular data and AI tools, crafted from over a decade of real-world experience to help freelancers and small teams deliver enterprise-grade solutions. Built by a collective of expert data engineers and AI specialists, Toltek empowers users to rapidly deploy best-practice data stacks and impactful AI use cases—quickly, affordably, and at scale. Our mission is to make high-quality data infrastructure and AI capabilities accessible to all, regardless of company size.
 
 ## 🧰 What We Offer
 
